@@ -2,3 +2,6 @@ ronaldo
 messi
 valverde
 neymar
+ramos
+maldini
+backenbaur
